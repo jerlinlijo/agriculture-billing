@@ -1,0 +1,22 @@
+.header-parent {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+}
+.header-menu-items {
+  margin: 0;
+  display: flex;
+  width: 90vw;
+  gap: 5rem;
+  justify-content: flex-start;
+}
+
+.header-logo {
+  width: 10vw;
+}
+
+.common-fonts {
+  font-size: 1.2rem;
+  font-weight: 500;
+  cursor: pointer;
+}

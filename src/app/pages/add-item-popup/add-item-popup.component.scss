@@ -1,0 +1,19 @@
+.header-add-item {
+  display: flex;
+  padding: 1rem;
+  flex-direction: column;
+}
+.header-add-item-border {
+  border-top: 1px solid black;
+}
+.row-item-list {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 2rem;
+}
+.first-row-item {
+  display: flex;
+  padding: 1rem;
+  gap: 1rem;
+}
